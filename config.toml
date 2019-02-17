@@ -1,0 +1,19 @@
+languageCode = "en-us"
+title = "FTShit"
+baseurl = "http://ftshit.com/"
+theme = "aerial"
+
+[params]
+  name = ""
+  about = ""
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "vkanstantsin@gmail.com"
