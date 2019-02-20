@@ -1,5 +1,5 @@
 install:
-- wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
+- wget wget https://github.com/gohugoio/hugo/releases/download/v0.49/hugo_0.49_Linux-64bit.deb
 - sudo dpkg -i hugo*.deb
 - hugo version
 before_script:
